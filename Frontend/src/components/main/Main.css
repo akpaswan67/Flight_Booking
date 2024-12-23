@@ -1,0 +1,123 @@
+.main {
+  display: flex;
+  align-items: center;
+}
+.main .box {
+  width: 100%;
+  height: 710px;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 15px;
+  background-color: #FFF;
+}
+.main .box h2 {
+  margin-left: 40px;
+}
+.main .box .container {
+  display: flex;
+}
+.main .box .container .boxes {
+  width: 240px;
+  height: 160px;
+  margin-left: 30px;
+  border-radius: 15px;
+  background-color: rgb(226, 233, 247);
+  display: flex;
+}
+.main .box .container .boxes .leftside .logo {
+  width: 35px;
+  height: 35px;
+  border-radius: 100%;
+  margin-left: 20px;
+  background-color: rgb(0, 132, 255);
+}
+.main .box .container .boxes .leftside .logo .icon {
+  font-size: 35px;
+  color: #fff;
+}
+.main .box .container .boxes .leftside .logo2 {
+  width: 35px;
+  height: 35px;
+  border-radius: 100%;
+  margin-left: 20px;
+  background-color: rgb(230, 241, 67);
+}
+.main .box .container .boxes .leftside .logo2 .icon {
+  font-size: 35px;
+  color: #fff;
+}
+.main .box .container .boxes .leftside .logo2 .avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+.main .box .container .boxes .leftside .lago {
+  width: 35px;
+  height: 35px;
+  border-radius: 100%;
+  margin-left: 20px;
+  background-color: rgb(0, 255, 34);
+}
+.main .box .container .boxes .leftside .lago .icon {
+  font-size: 35px;
+  color: #fff;
+}
+.main .box .container .boxes .leftside .logo4 {
+  width: 35px;
+  height: 35px;
+  border-radius: 100%;
+  margin-left: 20px;
+  background-color: rgb(255, 0, 17);
+}
+.main .box .container .boxes .leftside .logo4 .icon {
+  font-size: 35px;
+  color: #fff;
+}
+.main .box .container .boxes .leftside .logo4 .avatar {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+}
+.main .box .container .boxes .leftside h3 {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.main .box .container .boxes .leftside p {
+  font-size: 13px;
+  font-weight: 500;
+  margin-left: 20px;
+}
+.main .box .container .boxes .rightside {
+  height: 160px;
+}
+.main .box .container .boxes .rightside .content {
+  margin-left: 60px;
+}
+.main .box .container .boxes .rightside .content h3 {
+  margin-top: 10px;
+}
+.main .box .container .boxes .rightside .content p {
+  font-size: 13px;
+  font-weight: 500;
+}
+.main .box .container .boxes .rightside .progress1 {
+  margin-top: 90px;
+  margin-left: 60px;
+  color: rgb(0, 128, 255);
+}
+.main .box .container .boxes .rightside .progress2 {
+  margin-top: 90px;
+  margin-left: 60px;
+  color: chartreuse;
+}
+.main .box .container .boxes .rightside .progress3 {
+  margin-top: 90px;
+  margin-left: 60px;
+  color: rgb(255, 0, 0);
+}
+.main .box .Cardbox {
+  display: flex;
+  margin-left: 20px;
+}
+/*# sourceMappingURL=Main.css.map */

@@ -1,0 +1,8 @@
+.side{
+	display: flex;
+	
+	.nav{
+		flex: 6;
+
+	}
+}

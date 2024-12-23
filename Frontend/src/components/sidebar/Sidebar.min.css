@@ -1,0 +1,2 @@
+.sidebar{flex:1;width:290px;height:840px;background-color:#0053bf}.sidebar .center{padding-left:20px;padding-top:100px}.sidebar .center .box{display:flex;align-items:center;padding:5px;cursor:pointer;border-radius:12px;width:180px;height:38px}.sidebar .center .box:hover{background-color:#84b1f1;font-weight:600}.sidebar .center .box .icon{font-size:30px;color:#fff}.sidebar .center .box span{font-size:18px;color:#fff;margin-left:10px}
+/*# sourceMappingURL=Sidebar.min.css.map */

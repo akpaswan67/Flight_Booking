@@ -1,0 +1,88 @@
+// .dash{
+// 	display: flex;
+	.side{
+		display: flex;
+		.nav{
+				flex: 6;
+		}
+		.dashboard{
+			width: 1273px;
+			height: 610px;
+			margin-top: 20px;
+			margin-left: 20px;
+			margin-right: 20px;
+			border-radius: 15px;
+			background-color:#FFF;
+			.container{
+				display: flex;
+				h2{
+					margin-top: 30px;
+					margin-left: 50px;
+				}
+				p{
+					margin-top: 33px;
+					margin-left: 40px;
+					color: #1868d0;
+					cursor: pointer;
+				}
+				.button{
+					margin-top: 35px;
+					margin-left: 787px;
+				}
+			}
+			.header{
+				display: flex;
+				align-items: center;
+				.box{
+					width: 90%;
+					height: 50px;
+					margin-top: 20px;
+					margin-left: 50px;
+					// margin-right: 20px;
+					border-radius: 15px;
+					display: flex;
+					align-items: center;
+					justify-content: space-between;
+					background-color:#1868d0;
+					a{
+						margin-left: 20px;
+						margin-right: 50px;
+						color: #FFF;
+					}
+				}
+				.box1{
+					width: 90%;
+					height: 50px;
+					margin-top: 20px;
+					margin-left: 50px;
+					// margin-right: 20px;
+					border-radius: 15px;
+					display: flex;
+					align-items: center;
+					justify-content: space-between;
+					background-color: rgb(247, 245, 243);
+					a{
+						margin-left: 20px;
+						margin-right: 5px;
+						font-weight: 450;
+						.icon{
+							color: #1868d0;
+						}
+						.one{
+							color: rgb(90, 240, 90);
+						}
+						.two{
+							color: red;
+						}
+						a1{
+							color: #1868d0;
+							font-weight: 600;
+							margin-left: 5px;
+							font-size: 18px;
+						}
+					}
+				}
+			}
+		}
+	}
+// }

@@ -1,0 +1,39 @@
+.sidebar{
+	flex: 1;
+	width: 290px;
+	height: 840px;
+	background-color: #0053BF;
+
+
+.center {
+    padding-left: 20px;
+	padding-top: 100px;
+      .box{
+        display: flex;
+        align-items: center;
+        padding: 5px;
+        cursor: pointer;
+		border-radius: 12px;
+		width: 180px;
+		height: 38px;
+		// padding-top: 100px;
+        &:hover {
+          background-color: #84b1f1;
+		   font-weight: 600;
+        }
+
+        .icon {
+          font-size: 30px;
+          color: #fff;
+        }
+
+        span{
+            font-size:18px;
+            // font-weight: 600;
+            color:#fff;
+            margin-left: 10px;
+			
+        }
+    }
+  }
+}
